@@ -48,10 +48,3 @@ This project is an on-device, AI-powered mobile application designed to help use
   - UI Framework: React Native Paper, NativeWind (Tailwind CSS)
 
 ---
-
-## 🤝 Connect with Me
-You can find me on:
-
-- **[LinkedIn](https://www.linkedin.com/in/suyoung-cho/)**
-
-Thanks for visiting my profile!☺️
